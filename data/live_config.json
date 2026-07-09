@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "poll_seconds": 5,
+  "snapshot_url": "",
+  "fallback_static": true
+}

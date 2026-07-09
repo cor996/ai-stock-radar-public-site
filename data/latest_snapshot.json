@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-09 10:01:20",
-  "last_radar_run_at": "2026-07-09 10:00",
-  "page_published_at": "2026-07-09 10:00",
-  "next_scheduled_run_at": "2026-07-09 10:30",
+  "generated_at": "2026-07-09 10:31:05",
+  "last_radar_run_at": "2026-07-09 10:30",
+  "page_published_at": "2026-07-09 10:30",
+  "next_scheduled_run_at": "2026-07-09 11:00",
   "update_mode": "static_snapshot",
-  "auto_update": "frontend_polling_30s",
-  "frontend_live_refresh_seconds": 30,
+  "auto_update": "live_api_polling_5s_with_static_fallback",
+  "frontend_live_refresh_seconds": 5,
   "browser_refresh_recalculates": false,
   "quote_source_copy": "在线行情 / 本地缓存",
-  "snapshot_note": "页面每 30 秒检查最新快照；本地 AI 运行后才会产生新结果。"
+  "snapshot_note": "页面每 5 秒优先检查 Live API；未配置时继续显示本地静态快照。"
 }
