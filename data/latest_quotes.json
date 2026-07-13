@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 14:30:19",
+  "generated_at": "2026-07-13 15:05:39",
   "source": "static_snapshot",
   "status": "snapshot",
   "is_near_realtime": false,
@@ -10,7 +10,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "300750.SZ": {
       "name": "宁德时代",
@@ -18,7 +18,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "000510.SZ": {
       "name": "新金路",
@@ -26,7 +26,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "000960.SZ": {
       "name": "锡业股份",
@@ -34,7 +34,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "301269.SZ": {
       "name": "华大九天",
@@ -42,7 +42,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "688041.SH": {
       "name": "海光信息",
@@ -50,7 +50,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "688981.SH": {
       "name": "中芯国际",
@@ -58,7 +58,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "000001.SZ": {
       "name": "平安银行",
@@ -66,7 +66,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "002594.SZ": {
       "name": "比亚迪",
@@ -74,7 +74,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "000333.SZ": {
       "name": "美的集团",
@@ -82,7 +82,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "601166.SH": {
       "name": "兴业银行",
@@ -90,7 +90,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     },
     "600036.SH": {
       "name": "招商银行",
@@ -98,7 +98,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-13 14:30:19"
+      "generated_at": "2026-07-13 15:05:39"
     }
   }
 }
