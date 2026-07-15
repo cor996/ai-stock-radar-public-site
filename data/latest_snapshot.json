@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 14:00:30",
-  "last_radar_run_at": "2026-07-15 14:00",
-  "page_published_at": "2026-07-15 14:00",
-  "next_scheduled_run_at": "2026-07-15 14:30",
+  "generated_at": "2026-07-15 14:30:32",
+  "last_radar_run_at": "2026-07-15 14:30",
+  "page_published_at": "2026-07-15 14:30",
+  "next_scheduled_run_at": "2026-07-15 15:05",
   "update_mode": "static_snapshot",
   "auto_update": "live_api_polling_5s_with_static_fallback",
   "frontend_live_refresh_seconds": 5,
