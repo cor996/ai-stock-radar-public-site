@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "poll_seconds": 5,
-  "snapshot_url": "https://live.ma88.dpdns.org/v1/snapshot",
+  "snapshot_url": "",
   "fallback_static": true,
   "stale_after_seconds": 120
 }
