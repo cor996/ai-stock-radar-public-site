@@ -1,56 +1,16 @@
 {
-  "generated_at": "2026-07-22 16:35:10",
+  "generated_at": "2026-07-23 12:40:14",
   "source": "static_snapshot",
   "status": "snapshot",
   "is_near_realtime": false,
   "quotes": {
-    "002156.SZ": {
-      "name": "通富微电",
-      "current_price": null,
-      "source": "static_snapshot",
-      "status": "snapshot",
-      "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
-    },
-    "000938.SZ": {
-      "name": "紫光股份",
-      "current_price": null,
-      "source": "static_snapshot",
-      "status": "snapshot",
-      "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
-    },
-    "002015.SZ": {
-      "name": "协鑫能科",
-      "current_price": null,
-      "source": "static_snapshot",
-      "status": "snapshot",
-      "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
-    },
-    "601899.SH": {
-      "name": "紫金矿业",
-      "current_price": null,
-      "source": "static_snapshot",
-      "status": "snapshot",
-      "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
-    },
-    "002208.SZ": {
-      "name": "合肥城建",
-      "current_price": null,
-      "source": "static_snapshot",
-      "status": "snapshot",
-      "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
-    },
     "002415.SZ": {
       "name": "海康威视",
       "current_price": null,
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
     },
     "002594.SZ": {
       "name": "比亚迪",
@@ -58,7 +18,23 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
+    },
+    "002475.SZ": {
+      "name": "立讯精密",
+      "current_price": null,
+      "source": "static_snapshot",
+      "status": "snapshot",
+      "is_near_realtime": false,
+      "generated_at": "2026-07-23 12:40:14"
+    },
+    "688111.SH": {
+      "name": "金山办公",
+      "current_price": null,
+      "source": "static_snapshot",
+      "status": "snapshot",
+      "is_near_realtime": false,
+      "generated_at": "2026-07-23 12:40:14"
     },
     "000333.SZ": {
       "name": "美的集团",
@@ -66,7 +42,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
     },
     "601166.SH": {
       "name": "兴业银行",
@@ -74,7 +50,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
     },
     "600036.SH": {
       "name": "招商银行",
@@ -82,7 +58,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
     },
     "600276.SH": {
       "name": "恒瑞医药",
@@ -90,7 +66,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
     },
     "601628.SH": {
       "name": "中国人寿",
@@ -98,7 +74,31 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-07-22 16:35:10"
+      "generated_at": "2026-07-23 12:40:14"
+    },
+    "300760.SZ": {
+      "name": "迈瑞医疗",
+      "current_price": null,
+      "source": "static_snapshot",
+      "status": "snapshot",
+      "is_near_realtime": false,
+      "generated_at": "2026-07-23 12:40:14"
+    },
+    "603806.SH": {
+      "name": "福斯特",
+      "current_price": null,
+      "source": "static_snapshot",
+      "status": "snapshot",
+      "is_near_realtime": false,
+      "generated_at": "2026-07-23 12:40:14"
+    },
+    "601012.SH": {
+      "name": "隆基绿能",
+      "current_price": null,
+      "source": "static_snapshot",
+      "status": "snapshot",
+      "is_near_realtime": false,
+      "generated_at": "2026-07-23 12:40:14"
     }
   }
 }
