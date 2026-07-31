@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31 11:00:51",
+  "generated_at": "2026-07-31 12:12:23",
   "last_radar_run_at": "2026-07-31 11:00",
   "page_published_at": "2026-07-31 11:00",
   "next_scheduled_run_at": "2026-07-31 13:30",
-  "update_mode": "static_snapshot",
-  "auto_update": "live_api_polling_5s_with_static_fallback",
+  "update_mode": "live_api",
+  "auto_update": "live_api_polling_5s_strict",
   "frontend_live_refresh_seconds": 5,
   "browser_refresh_recalculates": false,
-  "quote_source_copy": "在线行情 / 本地缓存",
-  "snapshot_note": "页面每 5 秒优先检查 Live API；未配置时继续显示本地静态快照。"
+  "quote_source_copy": "在线只读行情",
+  "snapshot_note": "页面每 5 秒读取在线行情；连接失败时不展示旧推荐。"
 }
