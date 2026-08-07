@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 10:00:31",
+  "generated_at": "2026-08-07 10:30:28",
   "source": "static_snapshot",
   "status": "snapshot",
   "is_near_realtime": false,
@@ -10,7 +10,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "002594.SZ": {
       "name": "比亚迪",
@@ -18,7 +18,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "002475.SZ": {
       "name": "立讯精密",
@@ -26,7 +26,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "688111.SH": {
       "name": "金山办公",
@@ -34,7 +34,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "000333.SZ": {
       "name": "美的集团",
@@ -42,7 +42,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "601166.SH": {
       "name": "兴业银行",
@@ -50,7 +50,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "600036.SH": {
       "name": "招商银行",
@@ -58,7 +58,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "600276.SH": {
       "name": "恒瑞医药",
@@ -66,7 +66,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "601628.SH": {
       "name": "中国人寿",
@@ -74,7 +74,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "300760.SZ": {
       "name": "迈瑞医疗",
@@ -82,7 +82,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "603806.SH": {
       "name": "福斯特",
@@ -90,7 +90,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     },
     "601012.SH": {
       "name": "隆基绿能",
@@ -98,7 +98,7 @@
       "source": "static_snapshot",
       "status": "snapshot",
       "is_near_realtime": false,
-      "generated_at": "2026-08-07 10:00:31"
+      "generated_at": "2026-08-07 10:30:28"
     }
   }
 }
